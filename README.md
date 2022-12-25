@@ -1,1 +1,0 @@
-This is git essential file
